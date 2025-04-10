@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zongcan Ding</h1>
-<h3 align="center">I'm Zongshen Ding, an undergraduate student of the class of 2022 majoring in Computer Science and Technology at the School of Computer Science, Northwestern Polytechnical University, located in Xi'an, China. Currently, I'm mainly dedicated to research in areas such as vision-language large models and video anomaly detection.</h3>
+<h3 align="center">I'm Zongcan Ding, an undergraduate student of the class of 2022 majoring in Computer Science and Technology at the School of Computer Science, Northwestern Polytechnical University, located in Xi'an, China. Currently, I'm mainly dedicated to research in areas such as vision-language large models and video anomaly detection.</h3>
 
 - 📫 How to reach me **dingzongcan@mail.nwpu.edu.cn**
 
